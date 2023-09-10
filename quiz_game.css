@@ -1,0 +1,19 @@
+#output {
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid red;
+    padding:10px;
+    float:none;
+    text-align: left;
+}
+#game_body {
+    background: red;
+}
+#player1_div {
+    margin: 10px;
+    background: green;
+}
+#player2_div {
+    margin: 10px;
+    background: green;
+}
